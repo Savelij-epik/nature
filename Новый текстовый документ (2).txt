@@ -3,4 +3,5 @@ border-left:5px groove red;
 border-bottom:5px groove red;
 border-right:5px groove red;
 border-top:5px groove red;
+opacity:0.7;
 }
