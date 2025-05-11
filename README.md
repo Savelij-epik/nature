@@ -43,4 +43,16 @@
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFvTEyLk6ofyy5TL2GlomVPs9CuBOisnotSg&s">
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRshuykmYje35GPztGNZbSoGpgMNgPh7Lg4fQ&s">
  <body style="background:lightblue;font-family:sans-serif;">
+         <iframe width="400" height="300" src="
+      <iframe
+        width="400"
+        height="300"
+        src="https://rutube.ru/play/embed/c030738a7176e6948f653a2cf128b5df"
+        frameBorder="0"
+        allow="clipboard-write; autoplay"
+        webkitAllowFullScreen
+        mozallowfullscreen
+        allowFullScreen
+      ></iframe>
+    ">
 </html>
