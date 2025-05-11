@@ -43,7 +43,6 @@
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFvTEyLk6ofyy5TL2GlomVPs9CuBOisnotSg&s">
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRshuykmYje35GPztGNZbSoGpgMNgPh7Lg4fQ&s">
  <body style="background:lightblue;font-family:sans-serif;">
-         <iframe width="400" height="300" src="
       <iframe
         width="400"
         height="300"
